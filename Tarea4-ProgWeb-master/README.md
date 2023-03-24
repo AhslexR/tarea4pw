@@ -1,6 +1,6 @@
 # Tarea 4 de Programacion Web
 
-* Nombre: Javier Aquino
+* Nombre: ASHLY DIAZ REYES
 * Matricula: 2020-10955
 
 ## Agenda de contactos en React
