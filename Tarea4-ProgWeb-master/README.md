@@ -13,7 +13,7 @@
 ![image](./src/img/lista.png)
 
 ### Agregar Contactos
-![image](./src/img/agregar.png.)
+![image](./src/img/agregar.png)
 
 ### Ver el contacto guardado
 ![image](./src/img/contactog.png)
